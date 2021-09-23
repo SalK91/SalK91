@@ -10,6 +10,7 @@ Looking to collaborate on computer-vision and any real-world problems.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
+Connect with me on <a href="https://www.linkedin.com/in/salmansaeedkhan/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 📈 my github stats:
 
@@ -17,5 +18,4 @@ Looking to collaborate on computer-vision and any real-world problems.
 
 
 
-Connect with me on <a href="https://www.linkedin.com/in/salmansaeedkhan/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
