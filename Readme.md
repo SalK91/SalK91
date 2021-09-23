@@ -14,5 +14,6 @@ Hi, I'm Salman a data scientist by profession and interested in all things Data!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
 
-📈 my github stats:
+**📈 my github stats:**
+
 ![SalK91's GitHub stats](https://github-readme-stats.vercel.app/api?username=salk91&theme=synthwave&show_icons=true&count_private=true "Salman’s GitHub Stats")
