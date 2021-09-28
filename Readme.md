@@ -2,8 +2,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hi, I'm Salman a data scientist by profession and interested in all things Data!
-- 👀 Looking to collaborate on computer-vision, NLP and any real-world problems. 
+Hi, I'm a data scientist by profession and interested in all things Data!
+- 👀 Looking to collaborate on computer-vision, NLP and/or any real-world problems.
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/salmansaeedkhan/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
