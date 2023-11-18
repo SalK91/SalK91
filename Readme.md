@@ -4,7 +4,7 @@
 
 Hi, I'm a data scientist by profession and interested in all things Data!
 - 👀 Looking to collaborate on computer-vision, NLP and/or any real-world problems.
-- 📫 Connect with me on <a href="https://www.linkedin.com/in/salmansaeedkhan/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/salk1/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 
